@@ -1,3 +1,14 @@
 # Timertask
 <!--START_SECTION:badges-->
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/9bd9fb0e-34ef-4b38-a318-60d6b829bc81 "AWS Academy Graduate - AWS Academy Cloud Foundations")
+[![Constancia de Estudiante Regular de Diplomado de Arquitecto Cloud](https://images.credly.com/size/110x110/images/ab05bbe5-e639-4ac6-8daf-af9e433c4665/image.png)](http://www.credly.com/badges/baaedbae-8e3a-4f2b-82a2-b3301e94d461 "Constancia de Estudiante Regular de Diplomado de Arquitecto Cloud")
+[![Diplomado en DevOps](https://images.credly.com/size/110x110/images/cc451ea7-9c8e-4bcd-9139-d432a5614e3a/image.png)](http://www.credly.com/badges/7f0e3198-f223-4775-80a4-8ce1f44a3230 "Diplomado en DevOps")
+[![Logs y Métricas - CORFO](https://images.credly.com/size/110x110/images/33cd97bd-e0e3-4cbe-90a3-b348d984bb0d/INSIGNIAS3_Mesa-de-trabajo-1-copia-5.png)](http://www.credly.com/badges/d7bb1950-55e1-4b97-adfb-34b19d3b0ca5 "Logs y Métricas - CORFO")
+[![Arquitectura e Infraestructura Cloud - CORFO](https://images.credly.com/size/110x110/images/910c8709-64d9-4bc5-9b87-880ccf8b7a63/image.png)](http://www.credly.com/badges/03d813df-c353-4e63-9efe-137a922ebfa8 "Arquitectura e Infraestructura Cloud - CORFO")
+[![Operaciones y Escalamiento - CORFO](https://images.credly.com/size/110x110/images/388cbd13-5518-4163-822a-a86eab520860/INSIGNIAS3_Mesa-de-trabajo-1-copia-4.png)](http://www.credly.com/badges/c8fc98f5-88ad-4105-8e72-1d5abbea5d72 "Operaciones y Escalamiento - CORFO")
+[![Pruebas Automatizadas - CORFO](https://images.credly.com/size/110x110/images/0927a456-1d4a-446f-9153-b111cafc2ec2/INSIGNIAS3_Mesa-de-trabajo-1-copia-3__1_.png)](http://www.credly.com/badges/47a463bd-b942-4aa0-8abc-7c52ae3d486f "Pruebas Automatizadas - CORFO")
+[![Integración de Herramientas](https://images.credly.com/size/110x110/images/3b5fd964-dbc2-49aa-bf37-97b707091953/image.png)](http://www.credly.com/badges/f0707921-c718-4581-b08e-501cb5a288c5 "Integración de Herramientas")
+[![Integración Continua](https://images.credly.com/size/110x110/images/9cdc6c0d-64a8-4d3d-a7c8-18e862aff2b2/INSIGNIAS3_Mesa-de-trabajo-1-copia-2__1_.png)](http://www.credly.com/badges/aae0dcc3-a5dd-46bf-b474-b0a0596daabd "Integración Continua")
+[![Desarrollo y construcción](https://images.credly.com/size/110x110/images/d3db2fa1-381f-4525-b54c-2cfeef52ea5f/INSIGNIAS3_Mesa-de-trabajo-1-copia.png)](http://www.credly.com/badges/9195d2cf-4c1e-4d12-87fc-1407b8c2fd1f "Desarrollo y construcción")
+[![Fundamentos y adopción DevOps](https://images.credly.com/size/110x110/images/bd258607-6ce2-48c5-96fa-09bec72f68b6/INSIGNIAS3_Mesa-de-trabajo-1.png)](http://www.credly.com/badges/75e00178-93b8-4421-b9e6-983cab573ba5 "Fundamentos y adopción DevOps")
 <!--END_SECTION:badges-->
